@@ -1,0 +1,9 @@
+C:\Users\Dylan\source\repos\RootApp\RootApp\bin\Debug\RootApp.exe.config
+C:\Users\Dylan\source\repos\RootApp\RootApp\bin\Debug\RootApp.exe
+C:\Users\Dylan\source\repos\RootApp\RootApp\bin\Debug\RootApp.pdb
+C:\Users\Dylan\source\repos\RootApp\RootApp\obj\Debug\RootApp.Properties.Resources.resources
+C:\Users\Dylan\source\repos\RootApp\RootApp\obj\Debug\RootApp.csproj.GenerateResource.cache
+C:\Users\Dylan\source\repos\RootApp\RootApp\obj\Debug\RootApp.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\source\repos\RootApp\RootApp\obj\Debug\RootApp.exe
+C:\Users\Dylan\source\repos\RootApp\RootApp\obj\Debug\RootApp.pdb
+C:\Users\Dylan\source\repos\RootApp\RootApp\obj\Debug\RootApp.csprojAssemblyReference.cache
